@@ -28,7 +28,7 @@ const options = {
 		output: "./build",
 	},
   "toolsets": {
-    "appimage": "latest",
+    "appimage": "1.0.3",
     "nsis": "1.2.1",
   },
 	files: [
